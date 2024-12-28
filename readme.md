@@ -51,4 +51,4 @@ This project is a facial recognition-based attendance system built using Flask, 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.# Face-recognition-
